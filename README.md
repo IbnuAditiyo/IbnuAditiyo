@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Seorang calon Frontend Developer yang bersemangat dalam membangun antarmuka web yang menarik dan fungsional.
+  Seorang mahasiswa yang bersemangat dalam belajar web development.
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 ### 👨‍💻 Tentang Saya
 
 <p>
-  Perjalanan saya sebagai developer dimulai saat mengikuti program pelatihan **Coding Camp 2025 Powered by DBS Foundation** pada learning path *Frontend & Backend Developer*. Saya memiliki ketertarikan mendalam pada bagaimana desain dan kode dapat berkolaborasi untuk menciptakan pengalaman pengguna yang luar biasa.
+  Perjalanan saya sebagai developer dimulai saat mengikuti program pelatihan Coding Camp 2025 Powered by DBS Foundation pada learning path Frontend & Backend Developer. Saya memiliki ketertarikan mendalam pada bagaimana desain dan kode dapat berkolaborasi untuk menciptakan pengalaman pengguna yang luar biasa.
 </p>
 
 - 🌱 Saat ini saya sedang fokus mendalami **HTML, CSS, dan JavaScript**.
