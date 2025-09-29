@@ -1,11 +1,11 @@
-# Ibnu Aditiyo | Frontend Web Developer
+# Ibnu Aditiyo | Frontend Enthusiast
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J4dzJ2bHRsZzY4Z3V0cGdxazdwZmpmM2F0cm95dzQ0eTFzNWJkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="100">
 </p>
 
 <p align="center">
-  Seorang mahasiswa yang bersemangat dalam belajar web development.
+  Seorang mahasiswa dari jurusan Teknik Informatika.
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 ### 👨‍💻 Tentang Saya
 
 <p>
-  Perjalanan saya sebagai developer dimulai saat mengikuti program pelatihan Coding Camp 2025 Powered by DBS Foundation pada learning path Frontend & Backend Developer. Saya memiliki ketertarikan mendalam pada bagaimana desain dan kode dapat berkolaborasi untuk menciptakan pengalaman pengguna yang luar biasa.
+  Perjalanan saya dimulai saat mengikuti program pelatihan Coding Camp 2025 Powered by DBS Foundation pada learning path Frontend & Backend Developer. Saya memiliki ketertarikan pada bagaimana desain dan kode dapat berkolaborasi untuk menciptakan pengalaman pengguna yang luar biasa.
 </p>
 
 - 🌱 Saat ini saya sedang fokus mendalami **HTML, CSS, dan JavaScript**.
