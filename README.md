@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/bit-mario.gif" width="600" alt="mario coding pixel art">
+  <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/soft-ui-design-system/assets/img/ecommerce-header.jpg" width="600" alt="Web Dev Illustration" style="border-radius: 10px;">
   <br/>
 </div>
 
