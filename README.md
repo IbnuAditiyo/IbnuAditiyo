@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Is0Qp572l38xM2d9H3/giphy.gif" width="600" alt="coding aesthetic gif">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/bit-mario.gif" width="600" alt="mario coding pixel art">
   <br/>
 </div>
 
