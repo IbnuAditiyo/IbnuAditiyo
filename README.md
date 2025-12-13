@@ -1,54 +1,66 @@
-# Ibnu Aditiyo | Frontend Enthusiast
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Ibnu+Aditiyo;Informatics+Student+Sem+7;Coding+Camp+2025+Graduate;Focusing+on+Web+Fundamentals" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J4dzJ2bHRsZzY4Z3V0cGdxazdwZmpmM2F0cm95dzQ0eTFzNWJkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="100">
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J4dzJ2bHRsZzY4Z3V0cGdxazdwZmpmM2F0cm95dzQ0eTFzNWJkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="150">
+</div>
 
-<p align="center">
-  Seorang mahasiswa dari jurusan Teknik Informatika.
-</p>
-
-<p align="center">
+<div align="center">
   <a href="mailto:ibnuadityo45@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  </p>
+  <a href="https://linkedin.com/in/ibnu-aditiyo-2945a5291">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
----
+<hr/>
 
 ### 👨‍💻 Tentang Saya
 
-<p>
-  Perjalanan saya dimulai saat mengikuti program pelatihan Coding Camp 2025 Powered by DBS Foundation pada learning path Frontend & Backend Developer. Saya memiliki ketertarikan pada bagaimana desain dan kode dapat berkolaborasi untuk menciptakan pengalaman pengguna yang luar biasa.
-</p>
+Halo! Saya adalah mahasiswa **Teknik Informatika** semester 7 yang sedang membangun fondasi kuat di dunia Web Development.
 
-- 🌱 Saat ini saya sedang fokus mendalami **HTML, CSS, dan JavaScript**.
-- 🚀 Saya mencari kesempatan untuk berkontribusi pada proyek **open-source** untuk mengaplikasikan dan mengembangkan skill saya.
-- 💬 Tanya saya tentang apa pun yang berhubungan dengan dasar-dasar web development!
+Saya merupakan lulusan program **Coding Camp 2025 Powered by DBS Foundation**. Pengalaman tersebut memicu semangat saya untuk terus belajar. Saat ini, saya fokus menguasai dasar-dasar pemrograman web untuk menciptakan tampilan yang menarik dan logika yang fungsional.
 
----
-
-### 🛠️ Teknologi & Tools yang Saya Kuasai
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  </p>
+- 🔭 Fokus Utama: Menguasai **HTML, CSS, dan JavaScript (Vanilla)**.
+- 🌱 Sedang Mempelajari: Konsep **Basic Backend** dengan JavaScript.
+- 🤝 Terbuka untuk: Diskusi mengenai fundamental web dan coding pemula.
+- ⚡ Fun fact: Saya suka mengulik teknologi baru sambil mendengarkan musik!
 
 ---
 
-### 📊 Statistik GitHub Saya
+### 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IbnuAditiyo&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="IbnuAditiyo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbnuAditiyo&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  
+  <br/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+
+</div>
 
 ---
+
+### 📊 Statistik GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IbnuAditiyo&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbnuAditiyo&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IbnuAditiyo&theme=radical&hide_border=true" alt="streak stats" />
+</div>
+
+---
+
+<div align="center">
+  <small>Credit: Ibnu Aditiyo | Last Update: 2025</small>
+</div>
