@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Ibnu+Aditiyo;Informatics+Student+Sem+7;Coding+Camp+2025+Graduate;Focusing+on+Web+Fundamentals" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=580&lines=Hi+There!+%F0%9F%91%8B+I'm+Ibnu+Aditiyo;Informatics+Student+Sem+7;Coding+Camp+2025+Graduate;Focusing+on+Web+Fundamentals" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2J4dzJ2bHRsZzY4Z3V0cGdxazdwZmpmM2F0cm95dzQ0eTFzNWJkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="150">
+  <img src="https://media.giphy.com/media/Is0Qp572l38xM2d9H3/giphy.gif" width="600" alt="coding aesthetic gif">
+  <br/>
 </div>
 
 <div align="center">
