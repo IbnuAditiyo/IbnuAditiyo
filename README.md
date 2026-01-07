@@ -62,5 +62,5 @@ Saya merupakan lulusan program **Coding Camp 2025 Powered by DBS Foundation**. P
 ---
 
 <div align="center">
-  <small>Credit: Ibnu Aditiyo | Last Update: 2025</small>
+  <small>Credit: Ibnu Aditiyo | Last Update: 2026</small>
 </div>
