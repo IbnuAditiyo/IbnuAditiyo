@@ -61,7 +61,7 @@ TripTaktik merupakan prototipe aplikasi web yang menyediakan rekomendasi destina
 **Kontribusi saya:** Mengembangkan bagian frontend dengan berfokus pada antarmuka dan pengalaman pengguna bersama anggota tim.
 
 <p>
-  <a href="https://github.com/IbnuAditiyo/TripTaktikKP"><img src="https://img.shields.io/badge/Lihat_Proyek-181717?style=for-the-badge&logo=github&logoColor=white" alt="Lihat repository TripTaktik" /></a>
+  <a href="https://github.com/IbnuAditiyo/TripTaktikDeploy.git"><img src="https://img.shields.io/badge/Lihat_Proyek-181717?style=for-the-badge&logo=github&logoColor=white" alt="Lihat repository TripTaktik" /></a>
 </p>
 
 ##  Statistik GitHub
